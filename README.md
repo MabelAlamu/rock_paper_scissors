@@ -1,1 +1,3 @@
-# rock_paper_scissors
+# Rock, Paper, Scissors
+
+Let's play rock, paper, scissors!
